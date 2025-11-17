@@ -1,0 +1,7 @@
+C:\Users\IOT121\Desktop\smartfarm\smartfarm_server\bin\Debug\smartfarm_Server.exe.config
+C:\Users\IOT121\Desktop\smartfarm\smartfarm_server\bin\Debug\smartfarm_Server.exe
+C:\Users\IOT121\Desktop\smartfarm\smartfarm_server\bin\Debug\smartfarm_Server.pdb
+C:\Users\IOT121\Desktop\smartfarm\smartfarm_server\obj\Debug\smartfarm_Server.csproj.AssemblyReference.cache
+C:\Users\IOT121\Desktop\smartfarm\smartfarm_server\obj\Debug\smartfarm_Server.csproj.CoreCompileInputs.cache
+C:\Users\IOT121\Desktop\smartfarm\smartfarm_server\obj\Debug\smartfarm_Server.exe
+C:\Users\IOT121\Desktop\smartfarm\smartfarm_server\obj\Debug\smartfarm_Server.pdb

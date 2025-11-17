@@ -25,7 +25,7 @@ namespace smartfarm_client
         {
             _client = new TcpClient();
             await _client.ConnectAsync(ip, port);
-            Console.WriteLine("[CLIENT] Connected.");
+            Console.WriteLine("[CLIENT] 연결.");
 
             // 서버에서 오는 JSON 계속 받는 루프 시작
             _ = ReceiveLoop();
@@ -55,7 +55,7 @@ namespace smartfarm_client
                     // JSON → MyData 로 파싱
                     var data = JsonConvert.DeserializeObject<MyData>(json);
 
-                    Console.WriteLine($"[CLIENT] JSON Received → Id={data.Id}, Name={data.Name}");
+                    Console.WriteLine($"[CLIENT] JSON 받음 → Id={data.Id}, Name={data.Name}");
                     if (float.TryParse(data.Name, out float temp))
                     {
                         Console.WriteLine($"[CLIENT] Temp(float) = {temp}");
