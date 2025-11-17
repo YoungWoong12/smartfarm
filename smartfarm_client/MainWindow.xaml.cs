@@ -5,21 +5,25 @@ namespace smartfarm_client
 {
     public partial class MainWindow : Window
     {
-        // 접속할 서버 정보
         private string ipAddress = "127.0.0.1";
         private int port = 6000;
+
+        private JsonClient _jsonClient = new JsonClient();
 
         public MainWindow()
         {
             InitializeComponent();
 
-            // --------------------------------------
-            // 프로그램 실행 시 서버 접속 시도
-            // --------------------------------------
-            bool ok = Connect.ConnectToServer(ipAddress, port);
+            this.Loaded += MainWindow_Loaded;
+        }
 
-            // 접속 실패 시 메시지 출력
-            if (!ok)
+        private async void MainWindow_Loaded(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                await _jsonClient.ConnectAsync(ipAddress, port);
+            }
+            catch
             {
                 MessageBox.Show("서버 접속 실패");
             }

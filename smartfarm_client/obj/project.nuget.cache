@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wKWwTB23h2A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IOT121\\Desktop\\smartfarm\\smartfarm_client\\smartfarm_client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IOT121\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
