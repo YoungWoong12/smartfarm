@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace samrtfarm_client
+namespace client
 {
     /// <summary>
     /// Interaction logic for App.xaml

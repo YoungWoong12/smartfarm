@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\IOT121\\Desktop\\smartfarm\\smartfarm_client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0F1DA9F-7949-483D-BD83-D1C530D30BAD}|smartfarm_client.csproj|c:\\users\\iot121\\desktop\\smartfarm\\smartfarm_client\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0F1DA9F-7949-483D-BD83-D1C530D30BAD}|smartfarm_client.csproj|solutionrelative:json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0F1DA9F-7949-483D-BD83-D1C530D30BAD}|smartfarm_client.csproj|c:\\users\\iot121\\desktop\\smartfarm\\smartfarm_client\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E0F1DA9F-7949-483D-BD83-D1C530D30BAD}|smartfarm_client.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0F1DA9F-7949-483D-BD83-D1C530D30BAD}|smartfarm_client.csproj|c:\\users\\iot121\\desktop\\smartfarm\\smartfarm_client\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0F1DA9F-7949-483D-BD83-D1C530D30BAD}|smartfarm_client.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F1DA9F-7949-483D-BD83-D1C530D30BAD}|smartfarm_client.csproj|c:\\users\\iot121\\desktop\\smartfarm\\smartfarm_client\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F1DA9F-7949-483D-BD83-D1C530D30BAD}|smartfarm_client.csproj|solutionrelative:json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0F1DA9F-7949-483D-BD83-D1C530D30BAD}|smartfarm_client.csproj|c:\\users\\iot121\\desktop\\smartfarm\\smartfarm_client\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,6 +30,18 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IOT121\\Desktop\\smartfarm\\smartfarm_client\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\IOT121\\Desktop\\smartfarm\\smartfarm_client\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-18T00:13:45.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\IOT121\\Desktop\\smartfarm\\smartfarm_client\\MainWindow.xaml.cs",
@@ -39,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "connect.cs",
               "DocumentMoniker": "C:\\Users\\IOT121\\Desktop\\smartfarm\\smartfarm_client\\connect.cs",
               "RelativeDocumentMoniker": "connect.cs",
@@ -61,13 +77,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "json.cs",
               "DocumentMoniker": "C:\\Users\\IOT121\\Desktop\\smartfarm\\smartfarm_client\\json.cs",
               "RelativeDocumentMoniker": "json.cs",
               "ToolTip": "C:\\Users\\IOT121\\Desktop\\smartfarm\\smartfarm_client\\json.cs",
               "RelativeToolTip": "json.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAcwDIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDIAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-17T01:26:24.368Z",
               "EditorCaption": ""
